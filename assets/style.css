@@ -1,0 +1,46 @@
+.white-text{
+    color:#ede6e6;
+}
+
+iframe {
+    height: 400px !important;
+}
+
+.video-wrapper{
+    margin-top:40px;
+}
+
+.border {
+    width: 3px;
+    margin: 0 10px;
+    height: 290px;
+    display: inline-block;
+}
+
+.image-float {
+    float: left;  
+    height: 290px;
+}
+
+.image-float-right {
+    float: right;
+    height: 290px;
+}
+
+.img-half {
+    width: 45% !important;
+}
+
+.img-third {
+    width: 35%;
+    height: 290px;
+}
+.img-third-middle {
+    width: 20%;
+    margin: auto;
+    height: 290px;
+}
+
+.box-right {
+    margin-right: 50px;
+}
